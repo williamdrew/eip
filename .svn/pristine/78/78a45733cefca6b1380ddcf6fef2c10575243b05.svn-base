@@ -1,0 +1,21 @@
+/*
+ *
+ */
+package com.adargasystems.observer;
+
+/**
+ *
+ * @author $Author$
+ * @id $Id$
+ *
+ */
+public interface Aircraft {
+
+	/**
+	 * 
+	 * @return
+	 */
+	String getName();
+	
+	String getType();
+}

@@ -1,0 +1,10 @@
+!SESSION 2016-01-29 07:43:15.403 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data /home/William/workspaces/sandbox/eip -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.tigris.subversion.clientadapter.javahl 1 0 2016-01-29 07:44:02.973
+!MESSAGE Incompatible JavaHL library loaded.  1.8.x or later required.

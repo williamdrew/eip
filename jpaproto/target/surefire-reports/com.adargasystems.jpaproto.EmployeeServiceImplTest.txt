@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: com.adargasystems.jpaproto.EmployeeServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.139 sec <<< FAILURE!
+testEmployeeServiceImpl(com.adargasystems.jpaproto.EmployeeServiceImplTest)  Time elapsed: 0.138 sec  <<< ERROR!
+<openjpa-2.2.2-r422266:1468616 fatal user error> org.apache.openjpa.persistence.ArgumentException: The persistence provider is attempting to use properties in the persistence.xml file to resolve the data source. A Java Database Connectivity (JDBC) driver or data source class name must be specified in the openjpa.ConnectionDriverName or javax.persistence.jdbc.driver property. The following properties are available in the configuration: "org.apache.openjpa.jdbc.conf.JDBCConfigurationImpl@442ce698". 
+	at org.apache.openjpa.jdbc.schema.DataSourceFactory.newDataSource(DataSourceFactory.java:72)
+	at org.apache.openjpa.jdbc.conf.JDBCConfigurationImpl.createConnectionFactory(JDBCConfigurationImpl.java:849)
+	at org.apache.openjpa.jdbc.conf.JDBCConfigurationImpl.getDBDictionaryInstance(JDBCConfigurationImpl.java:602)
+	at org.apache.openjpa.jdbc.meta.MappingRepository.endConfiguration(MappingRepository.java:1518)
+	at org.apache.openjpa.lib.conf.Configurations.configureInstance(Configurations.java:531)
+	at org.apache.openjpa.lib.conf.Configurations.configureInstance(Configurations.java:456)
+	at org.apache.openjpa.lib.conf.PluginValue.instantiate(PluginValue.java:120)
+	at org.apache.openjpa.conf.MetaDataRepositoryValue.instantiate(MetaDataRepositoryValue.java:68)
+	at org.apache.openjpa.lib.conf.ObjectValue.instantiate(ObjectValue.java:83)
+	at org.apache.openjpa.conf.OpenJPAConfigurationImpl.newMetaDataRepositoryInstance(OpenJPAConfigurationImpl.java:967)
+	at org.apache.openjpa.conf.OpenJPAConfigurationImpl.getMetaDataRepositoryInstance(OpenJPAConfigurationImpl.java:958)
+	at org.apache.openjpa.kernel.AbstractBrokerFactory.makeReadOnly(AbstractBrokerFactory.java:644)
+	at org.apache.openjpa.kernel.AbstractBrokerFactory.newBroker(AbstractBrokerFactory.java:203)
+	at org.apache.openjpa.kernel.DelegatingBrokerFactory.newBroker(DelegatingBrokerFactory.java:156)
+	at org.apache.openjpa.persistence.EntityManagerFactoryImpl.createEntityManager(EntityManagerFactoryImpl.java:227)
+	at org.apache.openjpa.persistence.EntityManagerFactoryImpl.createEntityManager(EntityManagerFactoryImpl.java:154)
+	at org.apache.openjpa.persistence.EntityManagerFactoryImpl.createEntityManager(EntityManagerFactoryImpl.java:60)
+	at com.adargasystems.jpaproto.EmployeeServiceImplTest.testEmployeeServiceImpl(EmployeeServiceImplTest.java:13)
+

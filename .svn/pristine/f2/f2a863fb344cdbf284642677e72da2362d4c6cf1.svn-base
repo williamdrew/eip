@@ -1,0 +1,12 @@
+package com.adargasystems.fileio;
+
+public class PathExamples {
+
+	public PathExamples(){
+		
+	}
+	
+	public static void main(String[] args){
+		new PathExamples();
+	}
+}

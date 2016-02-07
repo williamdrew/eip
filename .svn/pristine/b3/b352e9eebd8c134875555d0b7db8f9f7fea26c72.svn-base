@@ -1,0 +1,15 @@
+/*
+ *
+ */
+package com.adargasystems.observer;
+
+/**
+ *
+ * @author $Author$
+ * @id $Id$
+ *
+ */
+public interface AirspaceObserver {
+
+	void observe(Aircraft a);
+}

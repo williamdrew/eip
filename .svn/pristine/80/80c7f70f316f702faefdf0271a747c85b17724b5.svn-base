@@ -1,0 +1,32 @@
+package com.adargasystems.fileio;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	public App(){
+		String value = Charset.defaultCharset().decode(buf).toString();
+		UserPrincipal group =
+		    file.getFileSystem().getUserPrincipalLookupService().
+		         lookupPrincipalByName("me");
+		
+		 ProcessBuilder pb =
+			   new ProcessBuilder();
+			 Map<String, String> env = pb.environment();
+			 env.put("VAR1", "myValue");
+			 env.remove("OTHERVAR");
+			 env.put("VAR2", env.get("VAR1") + "suffix");
+			 pb.directory(new File("myDir"));
+			 File log = new File("log");
+			 pb.redirectErrorStream(true);
+			 pb.redirectOutput(Redirect.appendTo(log));
+			 Process p = pb.start();
+			 
+	}
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

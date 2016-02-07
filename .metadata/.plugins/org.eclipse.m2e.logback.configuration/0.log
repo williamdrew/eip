@@ -1,0 +1,488 @@
+2016-01-29 07:44:09,135 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:abstractfactory:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/abstractfactory/pom.xml.
+2016-01-29 07:44:09,666 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:builder:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/builder/pom.xml.
+2016-01-29 07:44:10,390 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:abstractfactory:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/abstractfactory/pom.xml.
+2016-01-29 07:44:10,405 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:builder:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/builder/pom.xml.
+2016-01-29 07:44:10,432 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:decorator:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/decorator/pom.xml.
+2016-01-29 07:44:10,447 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:facade:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/facade/pom.xml.
+2016-01-29 07:44:10,461 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:flyweight:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/flyweight/pom.xml.
+2016-01-29 07:44:10,485 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:proxy:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/proxy/pom.xml.
+2016-01-29 07:44:10,498 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:chainOfResponsibility:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/chainOfResponsibility/pom.xml.
+2016-01-29 07:44:10,511 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:command:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/command/pom.xml.
+2016-01-29 07:44:10,524 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:lrucache:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/lrucache/pom.xml.
+2016-01-29 07:44:10,537 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:concurrent:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/concurrent/pom.xml.
+2016-01-29 07:44:10,549 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:observer:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/observer/pom.xml.
+2016-01-29 07:44:10,561 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:collections:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/collections/pom.xml.
+2016-01-29 07:44:10,573 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:bitwiseoperators:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/bitwiseoperators/pom.xml.
+2016-01-29 07:44:10,592 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:innerClasses:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/innerClasses/pom.xml.
+2016-01-29 07:44:10,604 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:strategy:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/strategy/pom.xml.
+2016-01-29 07:44:10,616 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:visitor:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/visitor/pom.xml.
+2016-01-29 07:44:10,627 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:aggregateops:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/aggregateops/pom.xml.
+2016-01-29 07:44:10,670 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:splittingSynchronization:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/splittingSynchronization/pom.xml.
+2016-01-29 07:44:10,700 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:lambdas:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/lambdas/pom.xml.
+2016-01-29 07:44:10,732 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:threadpools:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/threadpools/pom.xml.
+2016-01-29 07:44:10,806 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:aipParsing:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/aipParsing/pom.xml.
+2016-01-29 07:44:10,817 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:fileio:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/fileio/pom.xml.
+2016-01-29 07:44:10,828 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:jpaproto:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/jpaproto/pom.xml.
+2016-01-29 07:44:13,968 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:abstractfactory:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/abstractfactory/pom.xml.
+2016-01-29 07:44:13,973 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /abstractfactory/src/main/java
+2016-01-29 07:44:13,973 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /abstractfactory/src/test/java
+2016-01-29 07:44:14,002 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:builder:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/builder/pom.xml.
+2016-01-29 07:44:14,012 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /flyweight/src/main/java
+2016-01-29 07:44:14,013 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /flyweight/src/test/java
+2016-01-29 07:44:14,037 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /builder/src/main/java
+2016-01-29 07:44:14,038 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /builder/src/test/java
+2016-01-29 07:44:14,053 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:decorator:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/decorator/pom.xml.
+2016-01-29 07:44:14,067 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aggregateops/src/main/java
+2016-01-29 07:44:14,067 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aggregateops/src/test/java
+2016-01-29 07:44:14,107 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:facade:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/facade/pom.xml.
+2016-01-29 07:44:14,125 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /concurrent/src/main/java
+2016-01-29 07:44:14,126 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /concurrent/src/test/java
+2016-01-29 07:44:14,140 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:flyweight:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/flyweight/pom.xml.
+2016-01-29 07:44:14,154 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /splittingSynchronization/src/main/java
+2016-01-29 07:44:14,155 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /splittingSynchronization/src/test/java
+2016-01-29 07:44:14,172 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:proxy:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/proxy/pom.xml.
+2016-01-29 07:44:14,185 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chainOfResponsibility/src/main/java
+2016-01-29 07:44:14,185 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chainOfResponsibility/src/test/java
+2016-01-29 07:44:14,200 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:chainOfResponsibility:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/chainOfResponsibility/pom.xml.
+2016-01-29 07:44:14,233 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /strategy/src/main/java
+2016-01-29 07:44:14,239 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /strategy/src/test/java
+2016-01-29 07:44:14,283 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:command:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/command/pom.xml.
+2016-01-29 07:44:14,285 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /innerClasses/src/main/java
+2016-01-29 07:44:14,286 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /innerClasses/src/test/java
+2016-01-29 07:44:14,306 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /threadpools/src/main/java
+2016-01-29 07:44:14,306 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /threadpools/src/test/java
+2016-01-29 07:44:14,316 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:lrucache:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/lrucache/pom.xml.
+2016-01-29 07:44:14,356 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aipParsing/src/main/java
+2016-01-29 07:44:14,356 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aipParsing/src/main/resources
+2016-01-29 07:44:14,357 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aipParsing/src/test/java
+2016-01-29 07:44:14,362 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:concurrent:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/concurrent/pom.xml.
+2016-01-29 07:44:14,382 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /visitor/src/main/java
+2016-01-29 07:44:14,382 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /visitor/src/test/java
+2016-01-29 07:44:14,393 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:observer:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/observer/pom.xml.
+2016-01-29 07:44:14,405 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lrucache/src/main/java
+2016-01-29 07:44:14,405 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lrucache/src/test/java
+2016-01-29 07:44:14,424 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /decorator/src/main/java
+2016-01-29 07:44:14,424 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:collections:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/collections/pom.xml.
+2016-01-29 07:44:14,427 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /decorator/src/test/java
+2016-01-29 07:44:14,456 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jpaproto/src/main/java
+2016-01-29 07:44:14,456 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jpaproto/src/main/resources
+2016-01-29 07:44:14,456 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jpaproto/src/test/java
+2016-01-29 07:44:14,470 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:bitwiseoperators:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/bitwiseoperators/pom.xml.
+2016-01-29 07:44:14,489 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdas/src/main/java
+2016-01-29 07:44:14,489 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdas/src/test/java
+2016-01-29 07:44:14,546 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:innerClasses:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/innerClasses/pom.xml.
+2016-01-29 07:44:14,561 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facade/src/main/java
+2016-01-29 07:44:14,561 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facade/src/test/java
+2016-01-29 07:44:14,566 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:strategy:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/strategy/pom.xml.
+2016-01-29 07:44:14,575 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fileio/src/main/java
+2016-01-29 07:44:14,575 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fileio/src/test/java
+2016-01-29 07:44:14,620 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /observer/src/main/java
+2016-01-29 07:44:14,621 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /observer/src/test/java
+2016-01-29 07:44:14,636 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /collections/src/main/java
+2016-01-29 07:44:14,636 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /collections/src/test/java
+2016-01-29 07:44:14,648 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:visitor:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/visitor/pom.xml.
+2016-01-29 07:44:14,697 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proxy/src/main/java
+2016-01-29 07:44:14,698 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proxy/src/test/java
+2016-01-29 07:44:14,704 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:aggregateops:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/aggregateops/pom.xml.
+2016-01-29 07:44:14,731 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /command/src/main/java
+2016-01-29 07:44:14,735 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /command/src/test/java
+2016-01-29 07:44:14,745 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:splittingSynchronization:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/splittingSynchronization/pom.xml.
+2016-01-29 07:44:14,760 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitwiseoperators/src/main/java
+2016-01-29 07:44:14,761 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitwiseoperators/src/test/java
+2016-01-29 07:44:14,769 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 23 project(s) in 13 sec
+2016-01-29 07:44:14,773 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:lambdas:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/lambdas/pom.xml.
+2016-01-29 07:44:14,837 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:threadpools:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/threadpools/pom.xml.
+2016-01-29 07:44:15,302 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:aipParsing:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/aipParsing/pom.xml.
+2016-01-29 07:44:15,337 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:fileio:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/fileio/pom.xml.
+2016-01-29 07:44:15,377 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:jpaproto:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/jpaproto/pom.xml.
+2016-01-29 07:44:18,136 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:aggregateops:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/aggregateops/pom.xml.
+2016-01-29 07:44:18,142 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:18,142 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/abstractfactory/src/main/resources
+2016-01-29 07:44:18,144 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:18,145 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/abstractfactory/src/test/resources
+2016-01-29 07:44:18,213 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:aipParsing:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/aipParsing/pom.xml.
+2016-01-29 07:44:18,284 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:bitwiseoperators:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/bitwiseoperators/pom.xml.
+2016-01-29 07:44:18,469 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:fileio:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/fileio/pom.xml.
+2016-01-29 07:44:18,727 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:innerClasses:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/innerClasses/pom.xml.
+2016-01-29 07:44:18,757 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:jpaproto:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/jpaproto/pom.xml.
+2016-01-29 07:44:18,758 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:18,758 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aggregateops/src/main/resources
+2016-01-29 07:44:18,759 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:18,759 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aggregateops/src/test/resources
+2016-01-29 07:44:18,846 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:lambdas:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/lambdas/pom.xml.
+2016-01-29 07:44:19,057 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:splittingSynchronization:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/splittingSynchronization/pom.xml.
+2016-01-29 07:44:19,139 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:strategy:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/strategy/pom.xml.
+2016-01-29 07:44:19,266 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:threadpools:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/threadpools/pom.xml.
+2016-01-29 07:44:19,296 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:visitor:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/visitor/pom.xml.
+2016-01-29 07:44:19,532 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:19,532 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aggregateops/src/main/resources
+2016-01-29 07:44:19,533 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:19,533 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aggregateops/src/test/resources
+2016-01-29 07:44:19,583 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:19,593 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 78 resources
+2016-01-29 07:44:19,686 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:19,686 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aipParsing/src/test/resources
+2016-01-29 07:44:19,734 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:19,734 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/bitwiseoperators/src/main/resources
+2016-01-29 07:44:19,735 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:19,735 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/bitwiseoperators/src/test/resources
+2016-01-29 07:44:19,814 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:19,814 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/builder/src/main/resources
+2016-01-29 07:44:19,815 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:19,815 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/builder/src/test/resources
+2016-01-29 07:44:19,840 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:19,841 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/chainOfResponsibility/src/main/resources
+2016-01-29 07:44:19,841 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:19,841 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/chainOfResponsibility/src/test/resources
+2016-01-29 07:44:20,143 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:collections:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/collections/pom.xml.
+2016-01-29 07:44:20,157 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:20,158 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/collections/src/main/resources
+2016-01-29 07:44:20,159 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:20,159 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/collections/src/test/resources
+2016-01-29 07:44:20,288 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:20,288 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/command/src/main/resources
+2016-01-29 07:44:20,289 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:20,289 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/command/src/test/resources
+2016-01-29 07:44:20,557 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:20,557 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/concurrent/src/main/resources
+2016-01-29 07:44:20,558 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:20,558 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/concurrent/src/test/resources
+2016-01-29 07:44:20,907 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:20,907 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/decorator/src/main/resources
+2016-01-29 07:44:20,908 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:20,908 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/decorator/src/test/resources
+2016-01-29 07:44:20,932 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:20,933 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/facade/src/main/resources
+2016-01-29 07:44:20,934 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:20,934 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/facade/src/test/resources
+2016-01-29 07:44:21,018 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,019 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/fileio/src/main/resources
+2016-01-29 07:44:21,019 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,020 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/fileio/src/test/resources
+2016-01-29 07:44:21,046 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,046 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/flyweight/src/main/resources
+2016-01-29 07:44:21,047 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,047 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/flyweight/src/test/resources
+2016-01-29 07:44:21,054 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,054 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/innerClasses/src/main/resources
+2016-01-29 07:44:21,055 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,055 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/innerClasses/src/test/resources
+2016-01-29 07:44:21,151 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,152 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-29 07:44:21,154 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,154 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/jpaproto/src/test/resources
+2016-01-29 07:44:21,183 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,183 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lambdas/src/main/resources
+2016-01-29 07:44:21,183 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,184 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lambdas/src/test/resources
+2016-01-29 07:44:21,321 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,321 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lrucache/src/main/resources
+2016-01-29 07:44:21,322 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,322 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lrucache/src/test/resources
+2016-01-29 07:44:21,352 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,352 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/observer/src/main/resources
+2016-01-29 07:44:21,353 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,353 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/observer/src/test/resources
+2016-01-29 07:44:21,484 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,484 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/proxy/src/main/resources
+2016-01-29 07:44:21,485 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,485 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/proxy/src/test/resources
+2016-01-29 07:44:21,672 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,672 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/splittingSynchronization/src/main/resources
+2016-01-29 07:44:21,673 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,673 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/splittingSynchronization/src/test/resources
+2016-01-29 07:44:21,691 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,692 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/strategy/src/main/resources
+2016-01-29 07:44:21,692 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,692 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/strategy/src/test/resources
+2016-01-29 07:44:21,732 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,732 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/threadpools/src/main/resources
+2016-01-29 07:44:21,733 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,733 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/threadpools/src/test/resources
+2016-01-29 07:44:21,760 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,760 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/visitor/src/main/resources
+2016-01-29 07:44:21,761 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:44:21,761 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/visitor/src/test/resources
+2016-01-29 07:44:55,510 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:abstractfactory:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/abstractfactory/pom.xml.
+2016-01-29 07:44:55,521 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:builder:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/builder/pom.xml.
+2016-01-29 07:44:55,531 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:decorator:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/decorator/pom.xml.
+2016-01-29 07:44:55,547 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:facade:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/facade/pom.xml.
+2016-01-29 07:44:55,559 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:flyweight:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/flyweight/pom.xml.
+2016-01-29 07:44:55,568 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:proxy:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/proxy/pom.xml.
+2016-01-29 07:44:55,578 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:chainOfResponsibility:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/chainOfResponsibility/pom.xml.
+2016-01-29 07:44:55,587 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:command:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/command/pom.xml.
+2016-01-29 07:44:55,595 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:lrucache:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/lrucache/pom.xml.
+2016-01-29 07:44:55,604 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:concurrent:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/concurrent/pom.xml.
+2016-01-29 07:44:55,613 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:observer:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/observer/pom.xml.
+2016-01-29 07:44:55,621 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:collections:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/collections/pom.xml.
+2016-01-29 07:44:55,630 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:bitwiseoperators:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/bitwiseoperators/pom.xml.
+2016-01-29 07:44:55,639 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:innerClasses:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/innerClasses/pom.xml.
+2016-01-29 07:44:55,648 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:strategy:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/strategy/pom.xml.
+2016-01-29 07:44:55,657 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:visitor:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/visitor/pom.xml.
+2016-01-29 07:44:55,666 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:aggregateops:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/aggregateops/pom.xml.
+2016-01-29 07:44:55,675 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:splittingSynchronization:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/splittingSynchronization/pom.xml.
+2016-01-29 07:44:55,684 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:lambdas:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/lambdas/pom.xml.
+2016-01-29 07:44:55,701 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:threadpools:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/threadpools/pom.xml.
+2016-01-29 07:44:55,711 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:aipParsing:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/aipParsing/pom.xml.
+2016-01-29 07:44:55,720 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:fileio:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/fileio/pom.xml.
+2016-01-29 07:44:55,728 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:jpaproto:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/jpaproto/pom.xml.
+2016-01-29 07:44:58,210 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /abstractfactory/src/main/java
+2016-01-29 07:44:58,210 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /abstractfactory/src/test/java
+2016-01-29 07:44:58,221 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /flyweight/src/main/java
+2016-01-29 07:44:58,221 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /flyweight/src/test/java
+2016-01-29 07:44:58,239 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:abstractfactory:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/abstractfactory/pom.xml.
+2016-01-29 07:44:58,239 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /builder/src/main/java
+2016-01-29 07:44:58,239 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /builder/src/test/java
+2016-01-29 07:44:58,257 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:builder:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/builder/pom.xml.
+2016-01-29 07:44:58,257 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aggregateops/src/main/java
+2016-01-29 07:44:58,257 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aggregateops/src/test/java
+2016-01-29 07:44:58,270 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /concurrent/src/main/java
+2016-01-29 07:44:58,270 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /concurrent/src/test/java
+2016-01-29 07:44:58,273 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:decorator:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/decorator/pom.xml.
+2016-01-29 07:44:58,281 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /splittingSynchronization/src/main/java
+2016-01-29 07:44:58,282 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /splittingSynchronization/src/test/java
+2016-01-29 07:44:58,287 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:facade:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/facade/pom.xml.
+2016-01-29 07:44:58,292 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chainOfResponsibility/src/main/java
+2016-01-29 07:44:58,293 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chainOfResponsibility/src/test/java
+2016-01-29 07:44:58,302 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:flyweight:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/flyweight/pom.xml.
+2016-01-29 07:44:58,303 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /strategy/src/main/java
+2016-01-29 07:44:58,303 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /strategy/src/test/java
+2016-01-29 07:44:58,313 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /innerClasses/src/main/java
+2016-01-29 07:44:58,313 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /innerClasses/src/test/java
+2016-01-29 07:44:58,323 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /threadpools/src/main/java
+2016-01-29 07:44:58,324 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /threadpools/src/test/java
+2016-01-29 07:44:58,325 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:proxy:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/proxy/pom.xml.
+2016-01-29 07:44:58,335 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aipParsing/src/main/java
+2016-01-29 07:44:58,335 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aipParsing/src/main/resources
+2016-01-29 07:44:58,336 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aipParsing/src/test/java
+2016-01-29 07:44:58,347 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /visitor/src/main/java
+2016-01-29 07:44:58,347 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /visitor/src/test/java
+2016-01-29 07:44:58,350 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:chainOfResponsibility:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/chainOfResponsibility/pom.xml.
+2016-01-29 07:44:58,357 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lrucache/src/main/java
+2016-01-29 07:44:58,358 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lrucache/src/test/java
+2016-01-29 07:44:58,367 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:command:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/command/pom.xml.
+2016-01-29 07:44:58,368 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /decorator/src/main/java
+2016-01-29 07:44:58,369 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /decorator/src/test/java
+2016-01-29 07:44:58,383 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jpaproto/src/main/java
+2016-01-29 07:44:58,383 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jpaproto/src/main/resources
+2016-01-29 07:44:58,383 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jpaproto/src/test/java
+2016-01-29 07:44:58,391 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:lrucache:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/lrucache/pom.xml.
+2016-01-29 07:44:58,418 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:concurrent:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/concurrent/pom.xml.
+2016-01-29 07:44:58,418 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdas/src/main/java
+2016-01-29 07:44:58,418 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdas/src/test/java
+2016-01-29 07:44:58,431 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facade/src/main/java
+2016-01-29 07:44:58,431 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facade/src/test/java
+2016-01-29 07:44:58,438 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:observer:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/observer/pom.xml.
+2016-01-29 07:44:58,441 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fileio/src/main/java
+2016-01-29 07:44:58,442 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fileio/src/test/java
+2016-01-29 07:44:58,452 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /observer/src/main/java
+2016-01-29 07:44:58,453 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /observer/src/test/java
+2016-01-29 07:44:58,461 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:collections:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/collections/pom.xml.
+2016-01-29 07:44:58,466 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /collections/src/main/java
+2016-01-29 07:44:58,466 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /collections/src/test/java
+2016-01-29 07:44:58,476 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proxy/src/main/java
+2016-01-29 07:44:58,476 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proxy/src/test/java
+2016-01-29 07:44:58,487 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /command/src/main/java
+2016-01-29 07:44:58,488 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /command/src/test/java
+2016-01-29 07:44:58,499 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitwiseoperators/src/main/java
+2016-01-29 07:44:58,499 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:bitwiseoperators:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/bitwiseoperators/pom.xml.
+2016-01-29 07:44:58,499 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitwiseoperators/src/test/java
+2016-01-29 07:44:58,508 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 23 project(s) in 3 sec
+2016-01-29 07:44:58,530 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:innerClasses:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/innerClasses/pom.xml.
+2016-01-29 07:44:58,613 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:strategy:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/strategy/pom.xml.
+2016-01-29 07:44:58,635 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:visitor:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/visitor/pom.xml.
+2016-01-29 07:44:58,676 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:aggregateops:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/aggregateops/pom.xml.
+2016-01-29 07:44:58,709 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:splittingSynchronization:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/splittingSynchronization/pom.xml.
+2016-01-29 07:44:58,740 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:lambdas:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/lambdas/pom.xml.
+2016-01-29 07:44:58,765 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:threadpools:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/threadpools/pom.xml.
+2016-01-29 07:44:58,782 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:aipParsing:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/aipParsing/pom.xml.
+2016-01-29 07:44:58,805 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:fileio:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/fileio/pom.xml.
+2016-01-29 07:44:58,825 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.adargasystems:jpaproto:0.0.1-SNAPSHOT @ /home/William/workspaces/sandbox/eip/jpaproto/pom.xml.
+2016-01-29 07:45:00,311 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,311 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/abstractfactory/src/main/resources
+2016-01-29 07:45:00,311 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,311 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/abstractfactory/src/test/resources
+2016-01-29 07:45:00,337 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,337 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aggregateops/src/main/resources
+2016-01-29 07:45:00,338 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,338 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aggregateops/src/test/resources
+2016-01-29 07:45:00,357 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,358 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 78 resources
+2016-01-29 07:45:00,378 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,378 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aipParsing/src/test/resources
+2016-01-29 07:45:00,505 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,505 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/bitwiseoperators/src/main/resources
+2016-01-29 07:45:00,505 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,506 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/bitwiseoperators/src/test/resources
+2016-01-29 07:45:00,544 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,544 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/builder/src/main/resources
+2016-01-29 07:45:00,545 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,545 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/builder/src/test/resources
+2016-01-29 07:45:00,567 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,568 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/chainOfResponsibility/src/main/resources
+2016-01-29 07:45:00,568 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,568 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/chainOfResponsibility/src/test/resources
+2016-01-29 07:45:00,765 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,765 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/collections/src/main/resources
+2016-01-29 07:45:00,766 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,766 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/collections/src/test/resources
+2016-01-29 07:45:00,890 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,890 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/command/src/main/resources
+2016-01-29 07:45:00,891 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,891 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/command/src/test/resources
+2016-01-29 07:45:00,983 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,983 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/concurrent/src/main/resources
+2016-01-29 07:45:00,984 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:00,984 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/concurrent/src/test/resources
+2016-01-29 07:45:01,011 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,011 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/decorator/src/main/resources
+2016-01-29 07:45:01,012 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,012 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/decorator/src/test/resources
+2016-01-29 07:45:01,030 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,030 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/facade/src/main/resources
+2016-01-29 07:45:01,031 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,031 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/facade/src/test/resources
+2016-01-29 07:45:01,169 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,169 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/fileio/src/main/resources
+2016-01-29 07:45:01,170 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,170 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/fileio/src/test/resources
+2016-01-29 07:45:01,189 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,189 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/flyweight/src/main/resources
+2016-01-29 07:45:01,190 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,190 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/flyweight/src/test/resources
+2016-01-29 07:45:01,196 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,196 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/innerClasses/src/main/resources
+2016-01-29 07:45:01,196 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,196 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/innerClasses/src/test/resources
+2016-01-29 07:45:01,253 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,254 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-29 07:45:01,255 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,255 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/jpaproto/src/test/resources
+2016-01-29 07:45:01,277 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,277 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lambdas/src/main/resources
+2016-01-29 07:45:01,278 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,278 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lambdas/src/test/resources
+2016-01-29 07:45:01,305 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,305 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lrucache/src/main/resources
+2016-01-29 07:45:01,305 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,306 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lrucache/src/test/resources
+2016-01-29 07:45:01,338 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,338 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/observer/src/main/resources
+2016-01-29 07:45:01,339 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,339 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/observer/src/test/resources
+2016-01-29 07:45:01,353 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,353 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/proxy/src/main/resources
+2016-01-29 07:45:01,353 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,353 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/proxy/src/test/resources
+2016-01-29 07:45:01,504 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,504 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/splittingSynchronization/src/main/resources
+2016-01-29 07:45:01,504 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,504 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/splittingSynchronization/src/test/resources
+2016-01-29 07:45:01,519 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,519 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/strategy/src/main/resources
+2016-01-29 07:45:01,520 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,520 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/strategy/src/test/resources
+2016-01-29 07:45:01,558 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,559 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/threadpools/src/main/resources
+2016-01-29 07:45:01,559 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,559 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/threadpools/src/test/resources
+2016-01-29 07:45:01,690 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,690 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/visitor/src/main/resources
+2016-01-29 07:45:01,690 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:01,690 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/visitor/src/test/resources
+2016-01-29 07:45:24,329 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,329 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/abstractfactory/src/main/resources
+2016-01-29 07:45:24,330 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,330 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/abstractfactory/src/test/resources
+2016-01-29 07:45:24,337 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,337 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aggregateops/src/main/resources
+2016-01-29 07:45:24,337 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,337 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aggregateops/src/test/resources
+2016-01-29 07:45:24,344 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,347 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-29 07:45:24,348 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,348 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/aipParsing/src/test/resources
+2016-01-29 07:45:24,354 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,354 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/bitwiseoperators/src/main/resources
+2016-01-29 07:45:24,355 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,355 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/bitwiseoperators/src/test/resources
+2016-01-29 07:45:24,362 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,362 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/builder/src/main/resources
+2016-01-29 07:45:24,363 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,363 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/builder/src/test/resources
+2016-01-29 07:45:24,369 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,369 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/chainOfResponsibility/src/main/resources
+2016-01-29 07:45:24,370 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,370 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/chainOfResponsibility/src/test/resources
+2016-01-29 07:45:24,376 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,376 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/collections/src/main/resources
+2016-01-29 07:45:24,376 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,376 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/collections/src/test/resources
+2016-01-29 07:45:24,383 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,383 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/command/src/main/resources
+2016-01-29 07:45:24,383 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,383 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/command/src/test/resources
+2016-01-29 07:45:24,389 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,389 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/concurrent/src/main/resources
+2016-01-29 07:45:24,390 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,390 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/concurrent/src/test/resources
+2016-01-29 07:45:24,396 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,396 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/decorator/src/main/resources
+2016-01-29 07:45:24,397 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,397 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/decorator/src/test/resources
+2016-01-29 07:45:24,403 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,403 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/facade/src/main/resources
+2016-01-29 07:45:24,403 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,403 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/facade/src/test/resources
+2016-01-29 07:45:24,409 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,409 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/fileio/src/main/resources
+2016-01-29 07:45:24,410 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,410 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/fileio/src/test/resources
+2016-01-29 07:45:24,416 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,416 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/flyweight/src/main/resources
+2016-01-29 07:45:24,416 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,417 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/flyweight/src/test/resources
+2016-01-29 07:45:24,423 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,423 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/innerClasses/src/main/resources
+2016-01-29 07:45:24,423 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,423 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/innerClasses/src/test/resources
+2016-01-29 07:45:24,465 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,466 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-29 07:45:24,466 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,466 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/jpaproto/src/test/resources
+2016-01-29 07:45:24,472 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,473 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lambdas/src/main/resources
+2016-01-29 07:45:24,473 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,473 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lambdas/src/test/resources
+2016-01-29 07:45:24,480 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,480 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lrucache/src/main/resources
+2016-01-29 07:45:24,481 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,481 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/lrucache/src/test/resources
+2016-01-29 07:45:24,487 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,487 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/observer/src/main/resources
+2016-01-29 07:45:24,487 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,487 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/observer/src/test/resources
+2016-01-29 07:45:24,493 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,494 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/proxy/src/main/resources
+2016-01-29 07:45:24,494 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,494 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/proxy/src/test/resources
+2016-01-29 07:45:24,500 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,501 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/splittingSynchronization/src/main/resources
+2016-01-29 07:45:24,501 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,501 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/splittingSynchronization/src/test/resources
+2016-01-29 07:45:24,507 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,507 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/strategy/src/main/resources
+2016-01-29 07:45:24,508 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,508 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/strategy/src/test/resources
+2016-01-29 07:45:24,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/threadpools/src/main/resources
+2016-01-29 07:45:24,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/threadpools/src/test/resources
+2016-01-29 07:45:24,520 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,520 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/visitor/src/main/resources
+2016-01-29 07:45:24,533 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:45:24,534 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/visitor/src/test/resources
+2016-01-29 07:46:42,599 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:46:42,599 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/observer/src/main/resources
+2016-01-29 07:46:42,600 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-29 07:46:42,600 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/William/workspaces/sandbox/eip/observer/src/test/resources

@@ -1,0 +1,32 @@
+/*
+ *
+ */
+package com.adargasystems.concurrent;
+
+import java.awt.Polygon;
+
+import junit.framework.TestCase;
+
+/**
+ *
+ * @author $Author$
+ * @version $Revision$ $Id$
+ *
+ */
+public class WayPointTest extends TestCase {
+
+	/**
+	 * Test method for
+	 * {@link com.adargasystems.concurrent.AirPortGate#valueOf(java.lang.Double, java.lang.Double, java.lang.Double)}
+	 * .
+	 */
+	public void testCreateInstance() {
+		WayPoint wp = AirPortGate.valueOf(1.0, 2.0, 3.0);
+		assertNotNull(wp);
+
+		System.out.println(wp);
+		
+		wp.isInPolygon(new Polygon());
+	}
+
+}
