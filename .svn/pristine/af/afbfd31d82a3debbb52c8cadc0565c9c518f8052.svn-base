@@ -1,6 +1,0 @@
-bin   cgroup  etc   lib    lost+found  misc  net  proc	sbin	 srv  tmp  var
-boot  dev     home  lib64  media       mnt   opt  root	selinux  sys  usr
-bin   cgroup  etc   lib    lost+found  misc  net  proc	sbin	 srv  tmp  var
-boot  dev     home  lib64  media       mnt   opt  root	selinux  sys  usr
-bin   cgroup  etc   lib    lost+found  misc  net  proc	sbin	 srv  tmp  var
-boot  dev     home  lib64  media       mnt   opt  root	selinux  sys  usr
